@@ -1,0 +1,4 @@
+baseURL = 'https://www.xiaoyun2333.eu.org/'
+languageCode = 'zh-cn'
+title = '晓云'
+theme = 'ananke'
